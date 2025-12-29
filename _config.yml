@@ -1,0 +1,10 @@
+title: MixedNoise Privacy Policy
+description: Privacy Policy for the MixedNoise App
+baseurl: ""
+url: ""
+
+theme: minima
+
+# GitHub Pages settings
+plugins:
+  - jekyll-seo-tag
